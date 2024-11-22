@@ -1,0 +1,10 @@
+python-binance
+python-telegram-bot
+python-dotenv
+binance
+pandas
+pandas-ta
+telegram
+nest-asyncio
+matplotlib
+numpy
